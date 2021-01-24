@@ -1,0 +1,9 @@
+.form__input {
+  padding: 0.8rem;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgb(34, 34, 216);
+  color: rgb(51, 50, 50);
+  border-radius: 5px;
+  text-transform: uppercase;
+}

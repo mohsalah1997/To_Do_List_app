@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "cSpell.ignoreWords": [
+    "swal",
+    "sweetalert"
+  ]
+}
